@@ -2,7 +2,7 @@ var express = require('express');
 var url = require('url');
 var util = require('util');
 var app = express();
-const sql = require('mssql');//声明插件
+const sql = require('mssql');//声明插件1
 var moment = require('moment');
 var bodyParser = require("body-parser");  
 
